@@ -1,7 +1,5 @@
 # ¡Hola! Encantado de conocerte, mi nombre es Pablo Albert Puchol 👋
 
-[![Ingeniero Multimedia - Desarrollo Web & Videojuegos](entrada.png)]
-
 <p align="center">
   <img src="entrada.png" alt="Ingeniero Multimedia - Desarrollo Web & Videojuegos">
 </p>
