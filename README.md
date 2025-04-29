@@ -1,7 +1,9 @@
 # ¡Hola! Encantado de conocerte, mi nombre es Pablo Albert Puchol 👋
 
+[![Ingeniero Multimedia - Desarrollo Web & Videojuegos](entrada.png)]
+
 <p align="center">
-  [![Ingeniero Multimedia - Desarrollo Web & Videojuegos](entrada.png)]
+  <img src="entrada.png" alt="Ingeniero Multimedia - Desarrollo Web & Videojuegos">
 </p>
 
 Este espacio muestra mi viaje como Ingeniero Multimedia, explorando tanto el dinámico mundo del desarrollo web y de aplicaciones móviles como la fascinante industria de los videojuegos. Aquí encontrarás proyectos que reflejan mi dedicación a la calidad, la innovación y la constante adquisición de nuevas habilidades.
