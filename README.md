@@ -54,30 +54,9 @@ Este espacio muestra mi viaje como Ingeniero Multimedia, explorando tanto el din
 - C#
 - C++
 
-## CERTIFICACIONES 🏆
+## YOUTUBE VIDEOS
 
-- C1 - Cambridge English Level 1 Certificate in ESOL International (Advanced)
-- C1 – Conocimientos del valenciano (Generalitat Valenciana)
-
-## EDUCACIÓN 🎓
-
-- **Máster Universitario en Tecnologías Web, Computación en la Nube y Aplicaciones Móviles**
-  - Universitat de València (2023 - 2024)
-- **Grado en Ingeniería Multimedia**
-  - Universitat de València (2019 - 2023)
-
-## EXPERIENCIA 💼
-
-- **Empleado en prácticas** | Capgemini (marzo de 2023 - julio de 2023)
-  - Formación en desarrollo web (Angular, React, Spring, Git, MongoDB).
-  - Participación en proyecto interno sobre Robot Framework.
-  - Apoyo a compañeros con errores de Frontend.
-
-## CONTACTO ✉️
-
-- 📞 Mobile: 697597497
-- 📧 Email: [pabloalbertpuchol@gmail.com](mailto:pabloalbertpuchol@gmail.com)
-- 🔗 LinkedIn: [www.linkedin.com/in/pablo-albert-puchol-0053a7230](https://www.linkedin.com/in/pablo-albert-puchol-0053a7230)
+[Mira mi canal en YouTube](https://www.youtube.com/channel/UCUisG6OVmLe8zG7yqHX3OMA)
 
 ## ¡Sígueme! (Follow me!) 🚀
 
