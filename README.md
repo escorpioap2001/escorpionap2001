@@ -1,39 +1,41 @@
-# ¡Hola! Encantado de conocerte, mi nombre es Pablo Albert Puchol 👋
+# Welcome! Nice to meet you, my name is Pablo 👋
 
 <p align="center">
-  <img src="entrada.png" alt="Ingeniero Multimedia - Desarrollo Web & Videojuegos">
+  <img src="entrada.png" alt="Multimedia Engineer - Web & Video Games Development">
 </p>
 
-Este espacio muestra mi viaje como Ingeniero Multimedia, explorando tanto el dinámico mundo del desarrollo web y de aplicaciones móviles como la fascinante industria de los videojuegos. Aquí encontrarás proyectos que reflejan mi dedicación a la calidad, la innovación y la constante adquisición de nuevas habilidades.
+This space showcases my journey as a Multimedia Engineer, exploring both the dynamic world of web and mobile application development and the fascinating video game industry. Here you will find projects that reflect my dedication to quality, innovation, and the constant acquisition of new skills.
 
 ## CORE SKILLS 🛠️
 
-- Desarrollo Web (Angular, Spring, React Native Expo) 🌐
-- Desarrollo Móvil (React Native Expo) 📱
-- Desarrollo de Videojuegos (Unity, Unreal) 🎮
-- Simulación Gráfica (Processing) 🕹️
-- Animación 3D (Blender) 🎬
-- Lenguajes de Programación (Java, JavaScript, C#, PHP, C++) 👨‍💻
-- Diseño de Modelos 📐
-- Gestión de Proyectos 📂
-- Programación del Trabajo 🗓️
-- Trabajo en Equipo 🤝
+- Web Development (Angular, Spring, React Native Expo) 🌐
+- Mobile Development (React Native Expo) 📱
+- Video Game Development (Unity, Unreal) 🎮
+- Graphic Simulation (Processing) 🕹️
+- 3D Animation (Blender) 🎬
+- Programming Languages (Java, JavaScript, C#, PHP, C++) 👨‍💻
+- Model Design 📐
+- Project Management 📂
+- Work Programming 🗓️
+- Teamwork 🤝
 
-## PROYECTOS DESTACADOS 🌟
+## FEATURED PROJECTS 🌟
 
-**Desarrollo Web:**
+**Web Development:**
 
-- [TF_2C](https://github.com/escorpioap2001/TF_2C): Este proyecto web se basa en una arquitectura de software detallada, desarrollada con el ecosistema de Spring Boot para crear APIs robustas y escalables, para la gestión de bicicletas y tiempo atmosférico desde un ayuntamiento. El diseño permitía su ejecución independiente o en un entorno Kubernetes, con documentación clara sobre cómo configurar y lanzar la aplicación en ambos entornos (local y cloud).
-- [TFM](https://github.com/escorpioap2001/TFM): Este proyecto consistió en la simulación de una plataforma web y la creación de una aplicación móvil para compartir recetas entre estudiantes universitarios, con el objetivo de facilitar la cocina, uno de sus problemas comunes. La web se desarrolló con Angular, mientras que los servicios y el almacenamiento de la información se implementaron mediante una fábrica Java y Firebase. La aplicación móvil se desarrolló utilizando React Native Expo. 
+- [TF_2C](https://github.com/escorpioap2001/TF_2C): This web project is based on a detailed software architecture, developed with the Spring Boot ecosystem to create robust and scalable APIs for the management of bicycles and atmospheric conditions from a city council. The design allowed for its independent execution or in a Kubernetes environment, with clear documentation on how to configure and launch the application in both environments (local and cloud).
 
-**Videojuegos & Multimedia:**
+- [TFM](https://github.com/escorpioap2001/TFM): This project involved the simulation of a web platform and the creation of a mobile application for sharing recipes among university students, with the aim of facilitating cooking, one of their common problems. The web was developed with Angular, while the services and information storage were implemented using a Java factory and Firebase. The mobile application was developed using React Native Expo.
 
-- [TFG](https://github.com/escorpioap2001/TFG): Este proyecto de final de grado consiste en el desarrollo sobre Unity de un videojuego donde se integra un módulo inteligente capaz de generar finales personalizados según el estilo de juego del usuario (TRIUNFADOR / EXPLORADOR / ASESINO / SOCIALIZADOR).
-- [Portfolio Multimedia](https://mural.uv.es/palpu/portfolio/inicio.html): Portfolio desarollado con Angular, donde se muestra los proyectos personales de multimedia.
+**Video Games & Multimedia:**
 
-## TECNOLOGÍAS 💻
+- [TFG](https://github.com/escorpioap2001/TFG): This final degree project consists of the development on Unity of a video game where an intelligent module capable of generating personalized endings according to the user's play style (ACHIEVER / EXPLORER / KILLER / SOCIALIZER) is integrated.
 
-**Web & Móvil:**
+- [Portfolio Multimedia](https://mural.uv.es/palpu/portfolio/inicio.html): Portfolio developed with Angular, showcasing personal multimedia projects.
+
+## TECHNOLOGIES 💻
+
+**Web & Mobile:**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -45,7 +47,7 @@ Este espacio muestra mi viaje como Ingeniero Multimedia, explorando tanto el din
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Videojuegos & Multimedia:**
+**Video Games & Multimedia:**
 
 ![Unity](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -56,8 +58,8 @@ Este espacio muestra mi viaje como Ingeniero Multimedia, explorando tanto el din
 
 ## YOUTUBE VIDEOS
 
-[Mira mi canal en YouTube](https://www.youtube.com/channel/UCUisG6OVmLe8zG7yqHX3OMA)
+[Check out my YouTube channel](https://www.youtube.com/channel/UCUisG6OVmLe8zG7yqHX3OMA)
 
-## ¡Sígueme! (Follow me!) 🚀
+## Follow me! (Follow me!) 🚀
 
-[Enlace a tu perfil de LinkedIn con logo]
+[Link to your LinkedIn profile with logo]
