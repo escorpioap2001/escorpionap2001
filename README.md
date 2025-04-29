@@ -1,8 +1,8 @@
 # ¡Hola! Encantado de conocerte, mi nombre es Pablo Albert Puchol 👋
 
-[![Ingeniero Multimedia - Desarrollo Web & Videojuegos](entrada.png)]
-
-[www.linkedin.com/in/pablo-albert-puchol-0053a7230](https://www.linkedin.com/in/pablo-albert-puchol-0053a7230) 📧 [pabloalbertpuchol@gmail.com](mailto:pabloalbertpuchol@gmail.com) 📞 697597497
+<p align="center">
+  [![Ingeniero Multimedia - Desarrollo Web & Videojuegos](entrada.png)]
+</p>
 
 Este espacio muestra mi viaje como Ingeniero Multimedia, explorando tanto el dinámico mundo del desarrollo web y de aplicaciones móviles como la fascinante industria de los videojuegos. Aquí encontrarás proyectos que reflejan mi dedicación a la calidad, la innovación y la constante adquisición de nuevas habilidades.
 
